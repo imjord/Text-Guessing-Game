@@ -9,7 +9,7 @@
 
 
 
-  # About -
+  # About
 
   #### GitHub User: imjord
 
@@ -20,7 +20,7 @@
 
 
 
-  # Project -
+  # Project
 
   ## Project Name: Texted java guessing game
 
