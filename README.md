@@ -22,7 +22,7 @@
 
   # Project
 
-  ## Project Name: Texted java guessing game
+  ## Project Name: Text based java guessing game
 
   #### Project Description: Clone on your computer and in your ide run the program.
 
